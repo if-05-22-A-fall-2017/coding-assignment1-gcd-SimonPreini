@@ -1,6 +1,6 @@
 ### IF.05.22 Theoretical Informatics -- Winter 2017
 # Assignment 1: Coding Assignment
-
+HALLLLLLLLLOOOOO
 ## Objective
 This week's assignment is to get you familiar with Java, repeat recursion and easy algorithmic stuff.
 
